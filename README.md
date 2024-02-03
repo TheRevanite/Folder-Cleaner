@@ -5,7 +5,7 @@ Well here are two simple python programs created for that very purpose!
 
 ## Features
 
-- **[Folder_Reference_Deletion]**: Delete specific files, editing two lines: the path to your reference folder, and the path to your actual folder (where you wanna delete stuff).
+- **[Folder_Reference_Deletion](https://github.com/TheRevanite/Folder-Cleaner/blob/main/Folder_Reference_Deletion.py)**: Delete specific files, editing two lines: the path to your reference folder, and the path to your actual folder (where you wanna delete stuff).
 - **[File_Reference_Deletion]**: Delete specific files, editing two lines: the path to your reference filename (eg. references.txt), and the path to your actual folder (where you wanna delete stuff).
 
 ## Usage
